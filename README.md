@@ -53,7 +53,6 @@ A simple, fully-featured e-commerce backend API built with Node.js, Express, Mon
 
 * API server: `http://localhost:8000`
 * Swagger UI docs: `http://localhost:8000/api-docs`
-* Raw OpenAPI spec: `http://localhost:8000/swagger.json`
 
 ## Project Structure
 
